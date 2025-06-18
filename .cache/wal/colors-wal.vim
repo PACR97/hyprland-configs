@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/cano/Wallpapers/sunset.png"
+let background = "#282828"
+let foreground = "#D4BE98"
+let cursor     = "#c5c5c5"
+
+" Colors
+let color0  = "#282828"
+let color1  = "#D95222"
+let color2  = "#E05D24"
+let color3  = "#DD6325"
+let color4  = "#E37226"
+let color5  = "#C3912C"
+let color6  = "#D5952C"
+let color7  = "#c5c5c5"
+let color8  = "#725d5d"
+let color9  = "#D95222"
+let color10 = "#E05D24"
+let color11 = "#DD6325"
+let color12 = "#E37226"
+let color13 = "#C3912C"
+let color14 = "#D5952C"
+let color15 = "#D4BE98"

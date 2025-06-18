@@ -1,0 +1,28 @@
+{
+    "checksum": "3a6d6188201452b07bcec3cd532dd203",
+    "wallpaper": "/home/cano/aur/HyprDots/configs/.wallpapers/dark.png",
+    "alpha": "100",
+    "special": {
+        "background": "#10121b",
+        "foreground": "#c3c3c6",
+        "cursor": "#c3c3c6"
+    },
+    "colors": {
+        "color0": "#10121b",
+        "color1": "#83819B",
+        "color2": "#8A8FB2",
+        "color3": "#E69F9F",
+        "color4": "#ECAA9C",
+        "color5": "#E1CBB0",
+        "color6": "#A5AAD9",
+        "color7": "#c3c3c6",
+        "color8": "#5c5f70",
+        "color9": "#83819B",
+        "color10": "#8A8FB2",
+        "color11": "#E69F9F",
+        "color12": "#ECAA9C",
+        "color13": "#E1CBB0",
+        "color14": "#A5AAD9",
+        "color15": "#c3c3c6"
+    }
+}

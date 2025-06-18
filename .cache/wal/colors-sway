@@ -1,0 +1,21 @@
+set $wallpaper /home/cano/Wallpapers/sunset.png
+
+set $background #282828
+set $foreground #D4BE98
+
+set $color0 #282828
+set $color1 #D95222
+set $color2 #E05D24
+set $color3 #DD6325
+set $color4 #E37226
+set $color5 #C3912C
+set $color6 #D5952C
+set $color7 #c5c5c5
+set $color8 #725d5d
+set $color9 #D95222
+set $color10 #E05D24
+set $color11 #DD6325
+set $color12 #E37226
+set $color13 #C3912C
+set $color14 #D5952C
+set $color15 #D4BE98

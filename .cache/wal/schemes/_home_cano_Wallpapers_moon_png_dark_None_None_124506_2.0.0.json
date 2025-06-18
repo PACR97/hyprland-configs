@@ -1,0 +1,28 @@
+{
+    "checksum": "2b045d36f3f6910a1ebb0d9436e95127",
+    "wallpaper": "/home/cano/Wallpapers/moon.png",
+    "alpha": "100",
+    "special": {
+        "background": "#181818",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#181818",
+        "color1": "#928A75",
+        "color2": "#A1977F",
+        "color3": "#A69C84",
+        "color4": "#B3A88D",
+        "color5": "#C7BA9A",
+        "color6": "#CFC29F",
+        "color7": "#c5c5c5",
+        "color8": "#725d5d",
+        "color9": "#928A75",
+        "color10": "#A1977F",
+        "color11": "#A69C84",
+        "color12": "#B3A88D",
+        "color13": "#C7BA9A",
+        "color14": "#CFC29F",
+        "color15": "#c5c5c5"
+    }
+}

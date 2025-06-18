@@ -1,0 +1,28 @@
+{
+    "checksum": "385228e2a725b5ce8adf4d8cd04bddfa",
+    "wallpaper": "/home/cano/Pictures/default.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#140f23",
+        "foreground": "#c4c3c8",
+        "cursor": "#c4c3c8"
+    },
+    "colors": {
+        "color0": "#140f23",
+        "color1": "#503753",
+        "color2": "#713553",
+        "color3": "#594762",
+        "color4": "#9F3355",
+        "color5": "#DA3053",
+        "color6": "#9E445A",
+        "color7": "#c4c3c8",
+        "color8": "#635e74",
+        "color9": "#503753",
+        "color10": "#713553",
+        "color11": "#594762",
+        "color12": "#9F3355",
+        "color13": "#DA3053",
+        "color14": "#9E445A",
+        "color15": "#c4c3c8"
+    }
+}

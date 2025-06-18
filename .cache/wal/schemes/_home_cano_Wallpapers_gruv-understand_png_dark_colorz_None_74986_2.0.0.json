@@ -1,0 +1,28 @@
+{
+    "checksum": "810c78468955f3c71826156e62fd6bb1",
+    "wallpaper": "/home/cano/Wallpapers/gruv-understand.png",
+    "alpha": "100",
+    "special": {
+        "background": "#131313",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#131313",
+        "color1": "#a8a7a7",
+        "color2": "#aaa69b",
+        "color3": "#aaa48e",
+        "color4": "#93aa90",
+        "color5": "#97aa98",
+        "color6": "#9eaa9e",
+        "color7": "#c4c4c4",
+        "color8": "#6f5a5a",
+        "color9": "#a8a7a7",
+        "color10": "#aaa69b",
+        "color11": "#aaa48e",
+        "color12": "#93aa90",
+        "color13": "#97aa98",
+        "color14": "#9eaa9e",
+        "color15": "#c4c4c4"
+    }
+}

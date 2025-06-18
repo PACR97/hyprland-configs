@@ -1,0 +1,28 @@
+{
+    "checksum": "d598a1e15a2dc5650d285656d25a0910",
+    "wallpaper": "/home/cano/Wallpapers/war-in-space.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d131f",
+        "foreground": "#c2c4c7",
+        "cursor": "#c2c4c7"
+    },
+    "colors": {
+        "color0": "#0d131f",
+        "color1": "#978D77",
+        "color2": "#B0A58C",
+        "color3": "#C7B999",
+        "color4": "#D2C29E",
+        "color5": "#D8C9A6",
+        "color6": "#EBDAB0",
+        "color7": "#c2c4c7",
+        "color8": "#5c6371",
+        "color9": "#978D77",
+        "color10": "#B0A58C",
+        "color11": "#C7B999",
+        "color12": "#D2C29E",
+        "color13": "#D8C9A6",
+        "color14": "#EBDAB0",
+        "color15": "#c2c4c7"
+    }
+}

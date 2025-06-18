@@ -1,0 +1,24 @@
+wallpaper: "/home/cano/Wallpapers/sunset.png"
+
+special:
+    background: "#282828"
+    foreground: "#D4BE98"
+    cursor: "#c5c5c5"
+
+colors:
+    color0: "#282828"
+    color1: "#D95222"
+    color2: "#E05D24"
+    color3: "#DD6325"
+    color4: "#E37226"
+    color5: "#C3912C"
+    color6: "#D5952C"
+    color7: "#c5c5c5"
+    color8: "#725d5d"
+    color9: "#D95222"
+    color10: "#E05D24"
+    color11: "#DD6325"
+    color12: "#E37226"
+    color13: "#C3912C"
+    color14: "#D5952C"
+    color15: "#D4BE98"

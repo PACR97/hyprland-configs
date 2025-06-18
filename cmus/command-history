@@ -1,0 +1,3 @@
+set status_display_program=/usr/local/bin/cmus-notify
+set status_display_program=/sbin/cmus_notify
+q
